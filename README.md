@@ -18,6 +18,7 @@ I am passionate about technology, innovation, and problem-solving through clean 
 
 My goal is to gain practical experience through internships and collaborative projects while continuously enhancing my technical and professional skills. I welcome opportunities to connect with professionals, developers, and organizations for meaningful collaboration and learning
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amirul-Islam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_amirul_000_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirul-islam-dev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amirulislam9e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirulislam9.e@gmail.com) 
 
