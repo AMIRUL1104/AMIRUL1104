@@ -55,23 +55,11 @@ My goal is to grow through hands-on experience, collaborate with developers, and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirul1104&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirul1104&layout=compact&theme=tokyonight" />
-</p>
-
-<!-- # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AMIRUL1104&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AMIRUL1104&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRUL1104&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- -->
 
 ---
 
