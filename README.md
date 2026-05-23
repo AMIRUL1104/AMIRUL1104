@@ -9,7 +9,7 @@
 
 ### Full-Stack Web Developer (MERN + Next.js)
 
----
+🌐 Portfolio: https://amirul-islam.vercel.app
 
 ## 📍 Location & Contact
 
@@ -20,15 +20,18 @@
 
 ## 🧠 About Me
 
-I am a Full-Stack Web Developer focused on building modern, scalable, and user-friendly web applications using React, Next.js, Node.js, and MongoDB.
+I am a Full-Stack Web Developer focused on building real-world projects and gaining deep practical experience in modern web development. I create responsive and scalable web applications using React and Next.js, and develop robust backend systems with Node.js and MongoDB.
 
-I enjoy solving real-world problems through clean UI, efficient backend systems, and production-focused development practices.
+My current focus is moving beyond learning into real project execution, improving system design, performance optimization, and production-level development practices. I actively build and refine full-stack applications to strengthen my problem-solving skills in real scenarios.
+
+My goal is to grow through hands-on experience, collaborate with developers, and reach a professional level where I can contribute to impactful and scalable products.
 
 ---
 
 ## 🔥 Current Focus
 
 - Exploring advanced Next.js concepts and performance optimization
+- Working on SportNest — a real-world sports facility booking system with full-stack architecture
 - Building a full-featured tourism booking platform
 - Improving backend architecture using Node.js and Express
 - Working on real-world full-stack projects for portfolio growth
@@ -45,21 +48,21 @@ I enjoy solving real-world problems through clean UI, efficient backend systems,
 
 ## 🌐 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_USERNAME
-- TikTok: OPTIONAL
-- Snapchat: OPTIONAL
+- LinkedIn: https://linkedin.com/in/amirulislamdev
+- GitHub: https://github.com/AMIRUL1104
+- facebook: https://www.facebook.com/amirul.dev
+- instagram: https://www.instagram.com/amirul.dev
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIRUL1104&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirul1104&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRUL1104&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirul1104&layout=compact&theme=tokyonight" />
 </p>
 
 <!-- # 📊 GitHub Stats:
