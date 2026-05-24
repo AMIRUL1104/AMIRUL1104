@@ -52,6 +52,7 @@ My goal is to grow through hands-on experience, collaborate with developers, and
 - GitHub: https://github.com/AMIRUL1104
 - facebook: https://www.facebook.com/amirul.dev
 - instagram: https://www.instagram.com/amirul.dev
+- phone : +8801315399059
 
 ---
 
