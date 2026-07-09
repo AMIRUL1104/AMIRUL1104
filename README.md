@@ -73,21 +73,39 @@ I believe in continuous learning, solving real-world problems, and growing throu
 
 ![](https://komarev.com/ghpvc/?username=AMIRUL1104&label=Profile%20Views&color=0e75b6&style=flat)
 
----
-
 ## 🚀 Featured Projects
 
-### 1. Tourism Booking Platform
+### 🏥 MediCare Connect
+A full-stack healthcare management platform with role-based authentication, appointment booking, digital prescriptions, and Stripe payment integration.
 
-A full-stack web application built with React, Next.js, Node.js, and MongoDB. Includes authentication, booking system, and admin dashboard.
+**Tech:** Next.js, React, Node.js, Express.js, MongoDB, Better Auth, Stripe
 
-### 2. Modern UI Dashboard
+🔗 Live: https://medicare-connect-two.vercel.app
 
-Responsive admin dashboard built with React and Tailwind CSS focusing on clean UI and performance.
+---
 
-### 3. REST API Backend System
+### 🛒 SunCart
+A modern e-commerce platform featuring secure authentication, product discovery, shopping cart, wishlist, and a seamless checkout experience.
 
-Secure and scalable backend system using Node.js, Express.js, and MongoDB with authentication and CRUD operations.
+**Tech:** Next.js, React, MongoDB, Better Auth, Tailwind CSS
+
+🔗 Live: https://sun-cart-taupe.vercel.app
+
+---
+
+### 🏆 SportNest
+A sports facility booking platform that enables users to discover venues, reserve slots, and manage bookings through a responsive and secure web application.
+
+**Tech:** Next.js, React, JavaScript, Express.js, MongoDB, Better Auth
+
+🔗 Live: https://sportnest-go.vercel.app
+
+---
+
+### 📚 BookBridge *(In Progress)*
+A community-driven platform for buying, selling, exchanging, and donating used books with a simple and accessible user experience.
+
+**Tech:** Next.js,TypeScript, React, Express.js, MongoDB, Better Auth, TailwindCSS
 
 ---
 
