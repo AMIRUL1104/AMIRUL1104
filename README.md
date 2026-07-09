@@ -63,7 +63,7 @@ I believe in continuous learning, solving real-world problems, and growing throu
 
 ![](https://github-readme-stats.shion.dev/api?username=AMIRUL1104&theme=transparent&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=AMIRUL1104&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AMIRUL1104&theme=transparent)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AMIRUL1104&layout=compact&theme=transparent&hide_border=true)
 
