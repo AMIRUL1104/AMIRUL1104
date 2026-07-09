@@ -20,28 +20,31 @@
 
 ## 🧠 About Me
 
-I am a Full-Stack Web Developer focused on building real-world projects and gaining deep practical experience in modern web development. I create responsive and scalable web applications using React and Next.js, and develop robust backend systems with Node.js and MongoDB.
+Hi, I'm **Amirul Islam** 👋
 
-My current focus is moving beyond learning into real project execution, improving system design, performance optimization, and production-level development practices. I actively build and refine full-stack applications to strengthen my problem-solving skills in real scenarios.
+I am a **Full-Stack Web Developer** passionate about building scalable, user-focused web applications and continuously improving my skills through hands-on development. I enjoy transforming ideas into practical, real-world solutions while writing clean, maintainable, and production-ready code.
 
-My goal is to grow through hands-on experience, collaborate with developers, and reach a professional level where I can contribute to impactful and scalable products.
+My current focus is strengthening my expertise in full-stack development by building modern web applications, exploring software architecture, and learning best practices for creating secure, high-performance products. I am also exploring AI integration in web applications to enhance user experiences with intelligent features.
+
+I believe in continuous learning, solving real-world problems, and growing through practical experience. My goal is to collaborate with talented developers, contribute to impactful projects, and build products that deliver meaningful value to users.
 
 ---
 
 ## 🔥 Current Focus
 
-- Exploring advanced Next.js concepts and performance optimization
-- Working on SportNest — a real-world sports facility booking system with full-stack architecture
-- Building a full-featured tourism booking platform
-- Improving backend architecture using Node.js and Express
-- Working on real-world full-stack projects for portfolio growth
+* Building modern, production-ready full-stack web applications with Next.js and the MERN stack
+* Developing **BookBridge**, a platform that helps people buy, sell, exchange, or donate used books within their community
+* Strengthening my knowledge of scalable application architecture, authentication, and database design
+* Exploring AI integration in web applications using LLM APIs and modern AI workflows
+* Continuously improving code quality, performance optimization, and best development practices
+* Developing real-world projects to expand my portfolio and prepare for professional software engineering roles
 
 ---
 
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,vscode,figma,notion" />
 </p>
 
 ---
