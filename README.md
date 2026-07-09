@@ -59,15 +59,17 @@ I believe in continuous learning, solving real-world problems, and growing throu
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=AMIRUL1104&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AMIRUL1104&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AMIRUL1104&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=AMIRUL1104&theme=transparent&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=AMIRUL1104&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AMIRUL1104&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=AMIRUL1104&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AMIRUL1104&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
