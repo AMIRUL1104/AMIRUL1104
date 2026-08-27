@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="Images/banner.png" alt="Banner" />
+  <img src="Images/Banner.png" alt="Banner" />
 </p>
 
 ---
@@ -40,11 +40,21 @@ I believe in continuous learning, solving real-world problems, and growing throu
 * Developing real-world projects to expand my portfolio and prepare for professional software engineering roles
 
 ---
-
 ## 🛠️ Skills
 
+### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,vscode,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" />
+</p>
+
+### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,render" />
 </p>
 
 ---
@@ -55,7 +65,7 @@ I believe in continuous learning, solving real-world problems, and growing throu
 - GitHub: https://github.com/AMIRUL1104
 - facebook: https://www.facebook.com/amirul.dev
 - instagram: https://www.instagram.com/amirul.dev
-- phone : +8801315399059
+- phone : +8801315399059 (WhatsApp)
 
 ---
 
@@ -75,37 +85,41 @@ I believe in continuous learning, solving real-world problems, and growing throu
 
 ## 🚀 Featured Projects
 
-### 🏥 MediCare Connect
-A full-stack healthcare management platform with role-based authentication, appointment booking, digital prescriptions, and Stripe payment integration.
+### 📚 BookBridge
 
-**Tech:** Next.js, React, Node.js, Express.js, MongoDB, Better Auth, Stripe
+A full-stack peer-to-peer academic book marketplace that helps students buy, sell, donate, and request used textbooks at affordable prices.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,tailwind" />
+</p>
+
+🔗 Live: https://bookbridgebd.vercel.app  
+💻 Frontend: https://github.com/AMIRUL1104/BookBridge  
+⚙️ Backend: https://github.com/AMIRUL1104/BookBridge-Server
+
+---
+
+### 🏥 MediCare Connect
+
+A full-stack healthcare management platform with multi-role authentication, appointment booking, digital prescriptions, and Stripe payment integration.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind" />
+</p>
 
 🔗 Live: https://medicare-connect-two.vercel.app
 
 ---
 
-### 🛒 SunCart
-A modern e-commerce platform featuring secure authentication, product discovery, shopping cart, wishlist, and a seamless checkout experience.
-
-**Tech:** Next.js, React, MongoDB, Better Auth, Tailwind CSS
-
-🔗 Live: https://sun-cart-taupe.vercel.app
-
----
-
 ### 🏆 SportNest
-A sports facility booking platform that enables users to discover venues, reserve slots, and manage bookings through a responsive and secure web application.
 
-**Tech:** Next.js, React, JavaScript, Express.js, MongoDB, Better Auth
+A full-stack sports facility booking platform that enables users to discover venues, check availability, reserve slots, and manage bookings through a responsive web application.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,express,mongodb,tailwind" />
+</p>
 
 🔗 Live: https://sportnest-go.vercel.app
-
----
-
-### 📚 BookBridge *(In Progress)*
-A community-driven platform for buying, selling, exchanging, and donating used books with a simple and accessible user experience.
-
-**Tech:** Next.js,TypeScript, React, Express.js, MongoDB, Better Auth, TailwindCSS
 
 ---
 
